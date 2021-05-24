@@ -46,6 +46,9 @@ import gdxforInsetIconURL from './gdxfor/gdxfor-small.svg';
 import gdxforConnectionIconURL from './gdxfor/gdxfor-illustration.svg';
 import gdxforConnectionSmallIconURL from './gdxfor/gdxfor-small.svg';
 
+import BlockBitIconURL from './BlockBit/BlockBit.svg;
+import BlockBitInsetIconURL from './BlockBit/BlockBit-small.svg';
+
 export default [
     {
         name: (
@@ -318,4 +321,24 @@ export default [
         ),
         helpLink: 'https://scratch.mit.edu/vernier'
     }
+        {
+        name: (
+            <FormattedMessage
+                defaultMessage="BlockBit"
+                description="Test"
+                id="gui.extension.BlockBit.name"
+            />
+        ),
+        extensionId: 'blockbit',
+        iconURL: BlockBitIconURL,
+        insetIconURL: BlockBitIconURL,
+        description: (
+            <FormattedMessage
+                defaultMessage="Testing In Progress."
+                description="Description for the 'BlockBit' extension"
+                id="gui.extension.BlockBit.description"
+            />
+        ),
+        featured: true
+    },
 ];
