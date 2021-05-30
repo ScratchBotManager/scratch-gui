@@ -37,6 +37,17 @@ const motion = function (isInitialSetup, isStage, targetId) {
             </value>
         </block>
         ${blockSeparator}
+        <!-- Move 100 Steps Block -->
+<block type="motion_move100steps" />
+<!-- Move X Steps Block -->
+<block type="motion_movesteps">
+  <value name="STEPS">
+    <shadow type="math_number">
+      <field name="NUM">2</field>
+    </shadow>
+  </value>
+</block>
+        ${blockSeparator}
         <block type="motion_goto">
             <value name="TO">
                 <shadow type="motion_goto_menu">
