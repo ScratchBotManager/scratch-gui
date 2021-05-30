@@ -2977,6 +2977,7 @@
                     "rotationCenterY": 50
                 },
                 {
+                 
                     "assetId": "0fb9be3e8397c983338cb71dc84d0b25",
                     "name": "cat-b",
                     "bitmapResolution": 1,
@@ -2984,6 +2985,18 @@
                     "dataFormat": "svg",
                     "rotationCenterX": 46,
                     "rotationCenterY": 53
+
+                },
+                {
+
+                    "assetId": "d733a27b8af4803a2c63d260ec13bc48",
+                    "name": "cat-c",
+                    "bitmapResolution": 1,
+                    "md5ext": "d733a27b8af4803a2c63d260ec13bc48.svg",
+                    "dataFormat": "svg",
+                    "rotationCenterX": 46,
+                    "rotationCenterY": 53
+                    
                 }
             ],
             "sounds": [
