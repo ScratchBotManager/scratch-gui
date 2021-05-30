@@ -25357,3 +25357,60 @@
         }
     }
 ]
+    {
+        "name": "Cat",
+        "md5": "bcf454acf82e4504149f7ffe07081dbc.svg",
+        "type": "sprite",
+        "tags": [
+            "animals",
+            "cat",
+            "kitten",
+            "kitty",
+            "mammal",
+            "orange",
+            "scratch cat"
+        ],
+        "info": [
+            0,
+            2,
+            1
+        ],
+        "json": {
+            "isStage": false,
+            "name": "Cat",
+            "variables": {},
+            "lists": {},
+            "broadcasts": {},
+            "blocks": {},
+            "comments": {},
+            "currentCostume": 0,
+            "costumes": [
+                {
+                    "assetId": "bcf454acf82e4504149f7ffe07081dbc",
+                    "name": "cat-a",
+                    "bitmapResolution": 1,
+                    "md5ext": "bcf454acf82e4504149f7ffe07081dbc.svg",
+                    "dataFormat": "svg",
+                    "rotationCenterX": 48,
+                    "rotationCenterY": 50
+                },
+                
+            ],
+            "sounds": [
+                {
+                }
+            ],
+            "volume": 100,
+            "layerOrder": 50,
+            "visible": true,
+            "x": 33.000000000000014,
+            "y": -13.000000000000004,
+            "size": 100,
+            "direction": 90,
+            "draggable": false,
+            "rotationStyle": "all around",
+            "objName": "Monkey"
+        }
+    },
+        }
+    },
