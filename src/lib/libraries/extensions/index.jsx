@@ -336,7 +336,7 @@ export default [
             <FormattedMessage
                 defaultMessage="Testing In Progress."
                 description="Description for the 'BlockBit' extension"
-                id="gui.extension.BlockBit.description"
+                id="gui.extension.blockbit.description"
             />
         ),
         featured: true
